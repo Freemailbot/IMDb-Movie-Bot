@@ -49,13 +49,13 @@ add optional larger result buttons:
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made. Separate multiple IDs by space
 * Check [info.py](info.py) for more
 
-## Deploy
-You can deploy this bot anywhere.
 
-<details><summary>Deploy to Heroku</summary>
-<p>
-<br>
-<a href="https://github.com/Freemailbot/IMDb-Movie-Bot">
+
+
+
+
+
+
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
