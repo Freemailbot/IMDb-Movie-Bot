@@ -1,5 +1,4 @@
-
-[![deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Freemailbot/IMDb-Movie-Bot/edit/master/README.md)
+[![name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?https://github.com/Freemailbot/IMDb-Movie-Bot)
 
 
 
